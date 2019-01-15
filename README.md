@@ -14,11 +14,15 @@
 1. python3 manage.py runserver 0.0.0.0:8000
 2. `username: browen@qq.com`  `password: 123456`
 ### 基本模块
-####项目入口
-####客户页面及在kingadmin里的配置
-####学员注册页
-####kingadmin配置页
-####后续还需要增加功能
+1. 项目入口
+
+2. 客户页面及在kingadmin里的配置
+
+3. 学员注册页
+
+4. kingadmin配置页
+
+~ 后续还需要增加功能
 
 
 
