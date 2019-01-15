@@ -11,7 +11,7 @@
 2. django 1.10+
 
 ### 使用
-1. python3 manage.py runserver 0.0.0.0:8000
+1. python3 manage.py runserver 127.0.0.1:8000
 2. `username: browen@qq.com`  `password: 123456`
 ### 基本模块
 1. 项目入口
